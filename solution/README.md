@@ -4,6 +4,7 @@
 |링크드인|[링크](https://www.linkedin.com/in/ultrasuperrok/)|
 |오픈톡방|[링크](https://open.kakao.com/o/gX0WnTCf)|
 |스터디 그룹|[링크](https://www.linkedin.com/groups/14606078/)|
+|책 구경하기|[링크](https://product.kyobobook.co.kr/detail/S000210881884)|
 
 
 ## 05장 배열
